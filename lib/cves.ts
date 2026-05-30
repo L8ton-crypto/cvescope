@@ -156,7 +156,7 @@ export const CVES: CveEntry[] = [
     glasswingPartner: "Linux Foundation",
     patchStatus: "patched",
     summary:
-      "Demonstration set: Mythos was given 100 Linux kernel CVEs from 2024-2025, filtered to 40 exploitable candidates, and built working privilege-escalation exploits for more than half. Glasswing partners received the exploit code; public reporting redacts CVE IDs.",
+      "Demonstration set: Mythos was given 100 Linux kernel CVEs from 2024-2025, filtered to 40 exploitable candidates and built working privilege-escalation exploits for more than half. Glasswing partners received the exploit code; public reporting redacts CVE IDs.",
     source: { label: "Help Net Security", url: "https://www.helpnetsecurity.com/2026/04/08/anthropic-claude-mythos-preview-identify-vulnerabilities/" },
     notes: "Aggregate finding - individual CVE IDs withheld pending Glasswing rollout.",
   },

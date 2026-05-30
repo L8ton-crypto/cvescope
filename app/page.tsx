@@ -54,7 +54,7 @@ export default function Page() {
         </h1>
         <p className="text-zinc-400 mt-2 max-w-3xl text-sm sm:text-base leading-relaxed">
           The first publicly-credited cases of AI agents finding real-world security bugs.
-          Filter by vendor, severity, and discovery method. Use this as the receipts for
+          Filter by vendor, severity and discovery method. Use this as the receipts for
           governance and threat-model conversations - not as an exhaustive CVE database.
         </p>
 

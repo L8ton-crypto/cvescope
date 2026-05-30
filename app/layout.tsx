@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://cvescope.vercel.app"),
   openGraph: {
     title: "CVEScope - AI-discovered CVE timeline",
-    description: "Track which 2025-2026 CVEs were found by AI agents, and how vendors responded.",
+    description: "Track which 2025-2026 CVEs were found by AI agents and how vendors responded.",
     url: "https://cvescope.vercel.app",
     siteName: "CVEScope",
     type: "website",

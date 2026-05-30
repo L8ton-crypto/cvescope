@@ -3,7 +3,7 @@ import { AGGREGATE_STATS } from "@/lib/cves";
 
 export const metadata = {
   title: "About - CVEScope",
-  description: "Methodology, sources, and inclusion criteria for the CVEScope dataset.",
+  description: "Methodology, sources and inclusion criteria for the CVEScope dataset.",
 };
 
 export default function AboutPage() {
